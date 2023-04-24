@@ -1,2 +1,2 @@
 # Repository for Activities 9.1 and 9.2
-MIT.ipynb
+[Link to MIT.ipynb]MIT.ipynb
